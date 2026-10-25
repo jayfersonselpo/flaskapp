@@ -1,0 +1,5 @@
+# .gitignore
+.venv/
+_pycache_/
+*.py[cod]
+.env
